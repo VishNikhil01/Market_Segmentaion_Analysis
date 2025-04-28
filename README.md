@@ -9,8 +9,8 @@ We aim to identify distinct customer groups to support targeted marketing.
 
 ## Approach
 - Applied **K-Means Clustering** separately on demographic and psychographic data.
-- Preprocessed the data (encoding, scaling) before clustering.
-- Used **Elbow Method** and **Silhouette Score** to determine the optimal number of clusters.
+- Preprocessed the data (Label encoding) before clustering.
+- Used **Elbow Method** to determine the ideal no.of clusters
 
 ## Tools and Libraries
 - Python
